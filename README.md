@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧒 14 years old
+- 🧒 14yo
 - 🔭 I’m currently working on Game Development
 - :man_technologist: I intend to be a software engineer
 - 👨‍🎓 I’m currently learning C++, C# and English
