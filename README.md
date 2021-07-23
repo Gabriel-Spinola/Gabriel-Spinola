@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi I'm Gabriel an indie game developer from Brazil.
+Hi, I'm Gabriel, an indie game developer from Brazil.
 
 - 🔭 I’m currently working on Game Development
 - 📫 How to reach me: gabrielspinola77@gmail.com
