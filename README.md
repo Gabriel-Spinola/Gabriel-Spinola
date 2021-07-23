@@ -4,7 +4,7 @@ Hi, I'm Gabriel, an indie game developer from Brazil.
 
 - 🔭 I’m currently working on Game Development
 - 📫 How to reach me: gabrielspinola77@gmail.com
-- 👾 My itch.io Page: https://gabriel-spinola.itch.io
+- 👾 My itch.io [Page](https://gabriel-spinola.itch.io)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Spinola&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" />
