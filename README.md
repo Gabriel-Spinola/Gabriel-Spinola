@@ -12,6 +12,6 @@ NOTE: "Most Used Languages" it's a github metric of which languages I have the m
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Spinola&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Spinola&layout=compact&theme=tokyonight&hide=css,HTML,ShaderLab,HLSL,yacc,hack&count_private=true&exclude_repo=PHP-and-SQL-Study,Witchs-Ambition,Witcth-2,Call-of-Duty-Modern-Beans,Fps-Game-With-Unity,Website-PHP,Jumbbubble-MiniJam84,Andromeda,SpaceHell-MiniJaaj,SpaceHell-MiniJaaj,Seven-s-Vault" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Spinola&layout=compact&theme=tokyonight&hide=css,HTML,ShaderLab,HLSL,yacc,hack&count_private=true&exclude_repo=PHP-and-SQL-Study,Witchs-Ambition,Witcth-2,Call-of-Duty-Modern-Beans,Fps-Game-With-Unity,Website-PHP,Andromeda,SpaceHell-MiniJaaj,Seven-s-Vault" />
 </a>
 
