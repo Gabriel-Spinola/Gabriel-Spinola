@@ -2,7 +2,7 @@
 
 Hi, I'm Gabriel, an indie game developer from Brazil.
 
-- 🔭 I’m currently working on Game Development
+- 🔭 I’m currently working on Web Development
 - 📫 How to reach me: gabrielspinola77@gmail.com
 - 👾 My itch.io Page: https://gabriel-spinola.itch.io
 
