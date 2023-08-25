@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Gabriel
+I'm Gabriel
 
 - 🔭 I’m currently working on Web Development
 - 📫 How to reach me: gabrielspinola77@gmail.com
