@@ -19,4 +19,6 @@ NOTE: "Most Used Languages" it's a github metric of which languages I have the m
 </a>
 -->
 
+<!--
  ![github-user-contribution](https://user-images.githubusercontent.com/69523963/163844491-14b67a7b-7a0e-482c-a36e-c802e5909eb2.svg)
+-->
