@@ -14,7 +14,7 @@ NOTE: "Most Used Languages" it's a github metric of which languages I have the m
 -->
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Spinola&theme=tokyonight&layout=compact&hide=css,HTML,ShaderLab,HLSL,yacc,hack&count_private=false&size_weight=0.5&count_weight=0.5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Spinola&theme=tokyonight&layout=compact&hide=css,HTML,ShaderLab,HLSL,yacc,hack,CMake&count_private=false&size_weight=0.5&count_weight=0.5" />
 </a>
 
 <!--
