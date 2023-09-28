@@ -30,7 +30,7 @@ I'm Gabriel
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Spinola&theme=tokyonight&layout=donut&hide=css,HTML,ShaderLab,HLSL,yacc,hack,CMake,Batchfile,Swift,ASP.NET&count_private=true&size_weight=0.5&count_weight=0.5&exclude_repo=CS-and-Unity-Practice-Projects,Parkour-FPS-Controller-Unity")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Spinola&theme=tokyonight&layout=donut&hide=css,HTML,ShaderLab,HLSL,python,scss,kotlin,yacc,hack,CMake,Batchfile,Swift,ASP.NET&count_private=true&size_weight=0.5&count_weight=0.5&exclude_repo=CS-and-Unity-Practice-Projects,Parkour-FPS-Controller-Unity")
 
 </div>
 
