@@ -2,7 +2,7 @@
 
 I'm Gabriel
 
-[comment]: <> (The Seven Nith, por onde andaste todo esse tempo? Não consigo imaginar. Bem, encontres teus velhos companheiros novamente. Estou te esperando com uma solicitação no Discord. Esta é a minha súplica.)
+[comment]: <> (The Seven Nith, por onde andaste todo esse tempo? Não consigo imaginar. Bem, encontra teus velhos companheiros novamente. Estou te esperando com uma solicitação no Discord. Esta é a minha súplica.)
 
 - 🔭 I’m currently working on Web Development
 
