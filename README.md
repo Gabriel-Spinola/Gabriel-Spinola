@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=761CD0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C257F&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!,+My+name+is+Gabriel+Spinola;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BD93F9&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!,+My+name+is+Gabriel+Spinola;)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Spinola&bg_color=00000&color=792FBA&line=4C257F&point=5A2C97&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Spinola&bg_color=00000&color=cba6f7&line=cba6f7&point=BD93F9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📮 Reach me
 
