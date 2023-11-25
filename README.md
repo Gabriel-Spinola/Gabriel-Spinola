@@ -24,10 +24,6 @@
 ##
 
 
-<div align="center" style="margin-top: 10px;">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Spinola&show_icons=true&count_private=true&hide_border=true&title_color=794BB5&icon_color=5C3292&text_color=5C3292&bg_color=0d1117" alt="Kauã Fernandes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Spinola&count_private=false&&layout=compact&hide_border=true&title_color=794BB5&text_color=2E4EBA&bg_color=0d1117" />
-</div>
 
 ## 👾 My Tech Stack:
 <div width="400px" align="center">
