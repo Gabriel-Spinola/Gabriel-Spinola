@@ -28,7 +28,7 @@
 ## 👾 My Tech Stack:
 <div width="400px" align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=unity,react,nextjs,flutter,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,react,nextjs,flutter,postgres,bevy&theme=dark)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Spinola&theme=tokyonight&layout=donut&hide=css,HTML,ShaderLab,HLSL,python,scss,kotlin,json,tml,C,dart,yacc,hack,CMake,Batchfile,Swift,ASP.NET&count_private=true&size_weight=0.5&count_weight=0.5&exclude_repo=PHP-and-SQL-Studies,Rainbow-Seven,Parkour-FPS-Controller-Unity")
 
