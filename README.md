@@ -37,7 +37,10 @@
 
 </div>
 -->
+<div width="400px" align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Spinola&theme=tokyonight&layout=donut&hide=css,HTML,ShaderLab,HLSL,python,scss,javascript,json,tml,C,dart,yacc,hack,CMake,Batchfile,Swift,ASP,ASP.NET,dockerfile,objective-c&count_private=true&size_weight=0.5&count_weight=0.5&exclude_repo=PHP-and-SQL-Studies,Rainbow-Seven,Parkour-FPS-Controller-Unity")
+</div>
 
 <small>NOTE: "Most Used Languages" it's a github metric of which languages I have the most code on github, a feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</small>
 
