@@ -1,5 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header"/>
 
+<div align=center>
+  
+### Software Engineer | WorldSkills Brasil #08 (Mobile Development) – 2nd Place National
+
+</div>
+
 <!--
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BD93F9&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!,+My+name+is+Gabriel+Spinola;)](https://git.io/typing-svg)
