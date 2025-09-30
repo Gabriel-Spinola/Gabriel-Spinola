@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header"/>
+<img width="836" height="149" alt="image" src="https://github.com/user-attachments/assets/817ebaf7-804c-4950-893d-b78523c22a96" /><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header"/>
 
 <div align=center>
   
-### Software Engineer | WorldSkills Brasil #08 (Mobile Development) – 2nd Place National
+### Software Engineer | [WorldSkills Brasil #08 (Mobile Development) – 2nd Place National](https://www.fiemg.com.br/noticias/senai-mg-conquista-35-medalhas-na-worldskills-brasil-2025-e-consolida-lideranca-nacional/)
 
 </div>
 
