@@ -3,7 +3,7 @@
 <div align=center>
   
 ## Software Engineer | WorldSkills Shangai Competitor #11 (Software Testing)
-### 🇧🇷🥈 [WorldSkills Brasil #08 (Mobile Development) – 2nd Place National](https://www.fiemg.com.br/noticias/senai-mg-conquista-35-medalhas-na-worldskills-brasil-2025-e-consolida-lideranca-nacional/) 🥈🇧🇷
+### 🥈🇧🇷 [WorldSkills Brasil #08 (Mobile Development) – 2nd Place National](https://www.fiemg.com.br/noticias/senai-mg-conquista-35-medalhas-na-worldskills-brasil-2025-e-consolida-lideranca-nacional/) 🇧🇷🥈
 ### 🌟 [Featured Projects](https://gabriel-spinola.github.io/projects/) 🌟
 ### 🌟 [Game Dev](https://gabriel-spinola.github.io/projects/) 🌟
 
