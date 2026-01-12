@@ -1,13 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header"/> -->
 
-<div align=center>
+<!-- <div align=center> -->
   
 ## Software Engineer | WorldSkills Shanghai Competitor #11 (Software Testing)
-### 🥈 [WorldSkills Brasil #08 (Mobile Development) – 2nd Place National](https://www.fiemg.com.br/noticias/senai-mg-conquista-35-medalhas-na-worldskills-brasil-2025-e-consolida-lideranca-nacional/) 🥈
-### 🌟 [Featured Projects](https://gabriel-spinola.github.io/projects/) 🌟
-### 🌟 [Game Dev](https://gabriel-spinola.github.io/projects/) 🌟
+### 🥈 [WorldSkills Brasil #08 (Mobile Development) – 2nd Place National](https://www.fiemg.com.br/noticias/senai-mg-conquista-35-medalhas-na-worldskills-brasil-2025-e-consolida-lideranca-nacional/) 
+<br> 
 
-</div>
+- ### [Featured Projects](https://gabriel-spinola.github.io/projects/)
+- ### [Game Dev](https://gabriel-spinola.github.io/projects/)
+
+<!-- </div> -->
+
 
 <!--
 
@@ -46,11 +49,13 @@
 
 </div>
 -->
-<div width="600px" align="center">
+
+<!-- <div width="600px" align="center">
   
 ![Top Langs](https://github-readme-stats-sand-mu-14.vercel.app/api/top-langs/?username=Gabriel-Spinola&theme=tokyonight&layout=donut&hide=css,HTML,ShaderLab,HLSL,scss,json,tml,yacc,C,hack,CMake,Batchfile,Swift,ASP,ASP.NET,dockerfile,objective-c&size_weight=0.5&count_weight=0.5&exclude_repo=R")
 </div>
 
 <small>NOTE: "Most Used Languages" it's a github metric of which languages I have the most code on github, a feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</small>
+-->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=761CD0&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=761CD0&height=120&section=footer"/> -->
